@@ -1,0 +1,30 @@
+[
+  {
+    index: 0,
+    message: {
+      role: 'assistant',
+      content: '{\n' +
+      '  "questions": [\n' +
+      '    {\n' +
+      `      "question": "Explain the role of the skin as the body's largest organ and its functions."\n` +
+      '    },\n' +
+      '    {\n' +
+      '      "question": "Differentiate between the reproductive organs in males and females. What are their primary functions?"\n' +
+      '    },\n' +
+      '    {\n' +
+      '      "question": "Describe the types of muscles found in the human body and their respective functions."\n' +
+      '    },\n' +
+      '    {\n' +
+      '      "question": "What are the primary functions of bones in the human body? How do they contribute to overall health and mobility?"\n' +
+      '    },\n' +
+      '    {\n' +
+      '      "question": "How do the skeletal muscles enable movement in the human body? Discuss the importance of muscle contraction and relaxation for various bodily functions."\n' +
+      '    }\n' +
+      '  ]\n' +
+      '}\n',
+      refusal: null
+    },
+    logprobs: null,
+    finish_reason: 'stop'
+  }
+]
